@@ -1,0 +1,3 @@
+C:\Users\adam_\source\repos\ravenous\obj\Debug\ravenous.njsprojAssemblyReference.cache
+C:\Users\adam_\source\repos\ravenous\obj\Debug\ravenous.njsproj.CoreCompileInputs.cache
+C:\Users\adam_\source\repos\ravenous\bin\Microsoft.NodejsTools.WebRole.dll
